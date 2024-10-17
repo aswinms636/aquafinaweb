@@ -1,0 +1,184 @@
+.navbar{
+    background-color: #0047ba;
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+    height: 100px
+
+}
+.navdiv{
+    display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 404px;
+  padding-top: 15px;
+}
+
+
+.navdiv li{
+
+    
+    list-style: none;
+    display: inline-block;
+}
+.navdiv li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+#icon{
+    
+    width: 181px;
+    height: 56px;
+    padding-left: 204px;
+}
+.navdiv li a:hover{
+    color: blue; 
+    cursor: pointer;
+    transition: .5s ease;
+}
+.mainbody{
+    
+    background-image: url(Images/aquafina\ image\ re\ \(2\).jpg);
+    background-size: cover;
+    height: 457px;
+    display: flex;
+    justify-content: center;
+}
+#firstBtn{
+    width: 170px;
+    height: 54px;
+    border-radius: 5px;
+    border-color: #0047ba;
+    margin-left: 10px;
+    color: #0047ba ;
+}
+
+#secondBtn{
+    width: 170px;
+    height: 54px;
+    border-radius: 5px;
+    border-color: #0047ba;
+    margin-left: 10px;
+    color: #0047ba ;
+}
+
+
+
+
+.control{
+    width: 381px;
+    height: 104px;
+    background-color: none;
+    margin-right: px;
+    margin-left: 550px;
+    margin-top: 340px
+}
+
+#secondBtn:hover{
+    color: white;
+    background-color:  #0047ba ;
+}
+
+#firstBtn:hover{
+    color: white;
+    background-color:  #0047ba ;
+}
+.footer{
+    width: 1250px;
+    height: 210px;
+    background-color:white;
+    display: flex;
+    
+}
+
+.section1{
+    width: 194px;
+    height: 100px;
+    background-color: white;
+    margin-left: 91px;
+    padding-top: 70px;
+}
+
+.section2{
+    width: 194px;
+    height: 100px;
+    background-color: white;
+    margin-left: 10px;
+    padding-top: 70px;
+}
+.section3{
+    width: 210px;
+    height: 100px;
+    background-color:white
+    margin-left: 15px;
+    padding-top: 70px;
+    
+}
+.section4{
+    width: 195px;
+    height: 174px;
+    background-color:white;
+    margin-left: 260px;
+    display: flex;
+    
+}
+.footer li{
+    list-style: none;
+    font-size: 15px;
+    line-height: 1.8;
+    color:  #0047ba ;
+}
+
+#fbook{
+    display: inline-block;
+      width: 30px;
+    height: 30px;
+    background-image: url(Images/facebook\ img.png);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    margin-top: 70px;
+}
+#twt{
+    display: inline-block;
+      width: 30px;
+    height: 30px;
+    background-image: url(Images/twitter.png);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    margin-top: 70px;
+}
+#insta{
+    display: inline-block;
+      width: 30px;
+    height: 30px;
+    background-image: url(Images/Instagram_logo_2016.svg.webp);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 10px;
+    margin-top: 70px;
+}
+.icon{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-left: 970px;
+}
+#png{
+    width: 141px;
+    height: 53px;
+    color: #0047ba;
+}
+
+.footer li:hover{
+      color: rgb(23, 158, 255);
+      cursor: pointer;
+}
+
+
